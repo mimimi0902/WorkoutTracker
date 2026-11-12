@@ -1,16 +1,19 @@
-# React + Vite
+# 筋トレ記録アプリ
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+筋トレの種目、重量、回数、セット数を記録・管理するWebアプリです。
 
-Currently, two official plugins are available:
+## 主な機能
+- トレーニング記録の登録
+- 過去のトレーニング履歴の確認
+- 種目ごとの記録の比較
+- 記録の編集・削除
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 使用技術
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 開発状況
+Reactの開発環境を構築し、アプリの実装準備を進めています。
