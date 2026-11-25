@@ -1,0 +1,85 @@
+<mxfile host="65bd71144e">
+    <diagram id="workout-story-map" name="筋トレ記録アプリ">
+        <mxGraphModel dx="2775" dy="941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1480" pageHeight="970" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="n1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#182d4c;strokeColor=#182d4c;fontColor=#ffffff;fontSize=27;fontStyle=1;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="筋トレ記録アプリ  ｜  ユーザーストーリーマップ" vertex="1">
+                    <mxGeometry height="62" width="1405" x="35" y="22" as="geometry"/>
+                </mxCell>
+                <mxCell id="n2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#edf3fa;strokeColor=#edf3fa;fontColor=#17243a;fontSize=19;fontStyle=0;align=left;verticalAlign=middle;spacing=10;arcSize=12;" value="利用者の目的：トレーニングを簡単に記録し、過去と比較して成長を実感する" vertex="1">
+                    <mxGeometry height="50" width="1405" x="35" y="96" as="geometry"/>
+                </mxCell>
+                <mxCell id="n3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#284a75;strokeColor=#284a75;fontColor=#ffffff;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="① トレーニングを記録する" vertex="1">
+                    <mxGeometry height="62" width="445" x="35" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="n4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfeaf6;strokeColor=#dfeaf6;fontColor=#17243a;fontSize=16;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="今日の内容を残す" vertex="1">
+                    <mxGeometry height="44" width="445" x="35" y="239" as="geometry"/>
+                </mxCell>
+                <mxCell id="n5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#284a75;strokeColor=#284a75;fontColor=#ffffff;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="② 過去の記録を振り返る" vertex="1">
+                    <mxGeometry height="62" width="445" x="515" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="n6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfeaf6;strokeColor=#dfeaf6;fontColor=#17243a;fontSize=16;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="前回の内容を確認する" vertex="1">
+                    <mxGeometry height="44" width="445" x="515" y="239" as="geometry"/>
+                </mxCell>
+                <mxCell id="n7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#284a75;strokeColor=#284a75;fontColor=#ffffff;fontSize=21;fontStyle=1;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="③ 成長を確認する" vertex="1">
+                    <mxGeometry height="62" width="445" x="995" y="170" as="geometry"/>
+                </mxCell>
+                <mxCell id="n8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dfeaf6;strokeColor=#dfeaf6;fontColor=#17243a;fontSize=16;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="記録から変化を知る" vertex="1">
+                    <mxGeometry height="44" width="445" x="995" y="239" as="geometry"/>
+                </mxCell>
+                <mxCell id="n9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f3e9;strokeColor=#a2d5b8;fontColor=#17603b;fontSize=20;fontStyle=1;align=left;verticalAlign=middle;spacing=10;arcSize=12;" value="第1段階  ｜  MVP・優先して開発する機能" vertex="1">
+                    <mxGeometry height="48" width="1405" x="35" y="308" as="geometry"/>
+                </mxCell>
+                <mxCell id="n10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1fbf5;strokeColor=#87c8a3;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="□ 種目を選択する" vertex="1">
+                    <mxGeometry height="65" width="445" x="35" y="371" as="geometry"/>
+                </mxCell>
+                <mxCell id="n11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1fbf5;strokeColor=#87c8a3;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="重量・回数・セット数を入力する" vertex="1">
+                    <mxGeometry height="65" width="445" x="35" y="448" as="geometry"/>
+                </mxCell>
+                <mxCell id="n12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1fbf5;strokeColor=#87c8a3;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="日付とともに記録を保存する" vertex="1">
+                    <mxGeometry height="65" width="445" x="35" y="525" as="geometry"/>
+                </mxCell>
+                <mxCell id="n13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1fbf5;strokeColor=#87c8a3;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="日付ごとに記録を一覧表示する" vertex="1">
+                    <mxGeometry height="65" width="445" x="515" y="371" as="geometry"/>
+                </mxCell>
+                <mxCell id="n14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1fbf5;strokeColor=#87c8a3;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="種目ごとに過去の記録を見る" vertex="1">
+                    <mxGeometry height="65" width="445" x="515" y="448" as="geometry"/>
+                </mxCell>
+                <mxCell id="n15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1fbf5;strokeColor=#87c8a3;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="前回の重量・回数を確認する" vertex="1">
+                    <mxGeometry height="65" width="445" x="515" y="525" as="geometry"/>
+                </mxCell>
+                <mxCell id="n16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1fbf5;strokeColor=#87c8a3;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="種目ごとの最高重量を表示する" vertex="1">
+                    <mxGeometry height="65" width="445" x="995" y="371" as="geometry"/>
+                </mxCell>
+                <mxCell id="n17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f1fbf5;strokeColor=#87c8a3;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="過去と現在の記録を比較する" vertex="1">
+                    <mxGeometry height="65" width="445" x="995" y="448" as="geometry"/>
+                </mxCell>
+                <mxCell id="n18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff0d8;strokeColor=#e7c78a;fontColor=#80500f;fontSize=20;fontStyle=1;align=left;verticalAlign=middle;spacing=10;arcSize=12;" value="第2段階  ｜  余裕があれば追加する機能" vertex="1">
+                    <mxGeometry height="48" width="1405" x="35" y="620" as="geometry"/>
+                </mxCell>
+                <mxCell id="n19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9ee;strokeColor=#e6c78e;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="よく使う種目を登録する" vertex="1">
+                    <mxGeometry height="65" width="445" x="35" y="681" as="geometry"/>
+                </mxCell>
+                <mxCell id="n20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9ee;strokeColor=#e6c78e;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="入力内容を修正する" vertex="1">
+                    <mxGeometry height="65" width="445" x="35" y="758" as="geometry"/>
+                </mxCell>
+                <mxCell id="n21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9ee;strokeColor=#e6c78e;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="過去の記録を編集・削除する" vertex="1">
+                    <mxGeometry height="65" width="445" x="515" y="681" as="geometry"/>
+                </mxCell>
+                <mxCell id="n22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9ee;strokeColor=#e6c78e;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="期間を指定して記録を探す" vertex="1">
+                    <mxGeometry height="65" width="445" x="515" y="758" as="geometry"/>
+                </mxCell>
+                <mxCell id="n23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9ee;strokeColor=#e6c78e;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="重量の推移をグラフで表示する" vertex="1">
+                    <mxGeometry height="65" width="445" x="995" y="681" as="geometry"/>
+                </mxCell>
+                <mxCell id="n24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff9ee;strokeColor=#e6c78e;fontColor=#17243a;fontSize=18;fontStyle=0;align=center;verticalAlign=middle;spacing=10;arcSize=12;" value="トレーニング回数を集計する" vertex="1">
+                    <mxGeometry height="65" width="445" x="995" y="758" as="geometry"/>
+                </mxCell>
+                <mxCell id="n25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#edf3fa;strokeColor=#d5e0ed;fontColor=#17243a;fontSize=18;fontStyle=1;align=left;verticalAlign=middle;spacing=10;arcSize=12;" value="開発方針：まず「入力 → 保存 → 振り返り」を完成させ、次に成長の可視化を充実させる" vertex="1">
+                    <mxGeometry height="56" width="1405" x="35" y="859" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
